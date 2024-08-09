@@ -31,6 +31,13 @@ Before you begin, ensure you have the following installed on your system:
 
 2. **Extract the downloaded files** to a directory of your choice.
 
+
+### 3. Update the Map API KEY variable 
+
+```accessToken: MAP_ACCESS_TOKEN``` (in leaf.js file)
+
+Access the token by signin to https://account.mapbox.com/
+
 ### 3. Start Zookeeper and Kafka
 
 In this project Kafka relies on Zookeeper to manage distributed configurations. Follow these steps to start Zookeeper and Kafka:
