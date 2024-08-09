@@ -2,6 +2,10 @@
 
 This project demonstrates how to set up and run a local Kafka server and use it alongside a Flask application to handle streaming of latitude and longitude data in real-time. The project involves producing, consuming, and visualizing geospatial data using Kafka and Leaflet.js.
 
+
+
+![Screenshot 2024-08-08 at 11 41 23 PM](https://github.com/user-attachments/assets/4c6a05f7-3445-400f-b677-e96aad7b1414)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
